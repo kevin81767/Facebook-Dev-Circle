@@ -1,0 +1,12 @@
+.contain{
+    width:65%;
+    margin:auto;
+}
+
+.result{
+    background-color: rgb(255, 255, 255);
+}
+
+.result p{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
