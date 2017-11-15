@@ -50,7 +50,7 @@
   AccountKit_OnInteractive = function(){
     AccountKit.init(
       {
-        appId:"153840898457930", 
+        appId:"{YOUR_APP_ID}", 
         state:"{{csrf}}", 
         version:"v1.0",
         fbAppEventsEnabled:true,

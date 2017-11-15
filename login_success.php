@@ -2,8 +2,8 @@
 
 <?php
 // Initialize variables
-$app_id = '153840898457930';
-$secret = 'c1767c71d3eb2103410d30e91a416250';
+$app_id = '{YOUR_APP_ID}';
+$secret = '{YOUR_APP_SECRET}';
 $version = 'v1.0'; // 'v1.1' for example
 
 // Method to send Get request to url
