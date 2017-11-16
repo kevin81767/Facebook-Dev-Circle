@@ -6,3 +6,6 @@ Facebook tools used:
 In a future commit i will add a bot messenger.
 
 Email:kevin81767@gmail.com
+
+To use the platform with your own Facebook App don't forget to change App_id and App_secret in
+login_success.php and in the directory templates/template1.php
